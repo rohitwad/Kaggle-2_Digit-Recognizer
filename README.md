@@ -2,6 +2,9 @@
 Identify Digits Using SVM &amp; CNN
 
 
-</br>Linear SVM
-</br>Non-Linear SVM (i.e. RBF)
- </br>&emsp;RBF is radial basis function kernel
+</br>1) Linear SVM
+</br>2) Non-Linear SVM (i.e. RBF)
+ </br>&emsp;a) RBF is radial basis function kernel
+</br>&emsp;&emsp; i) Grid Search Cross-Validation
+</br>&emsp;&emsp;&emsp;-> Tuning2 Hyper-parameters: C & Gamma
+ 
